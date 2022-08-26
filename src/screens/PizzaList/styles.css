@@ -1,0 +1,113 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.pizzas-container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 70%;
+  padding: 60px 24px;
+}
+
+@media (max-width: 1300px) {
+  .pizzas-container {
+    width: 85%;
+  }
+}
+
+@media (max-width: 740px) {
+  .pizzas-container {
+    flex-direction: column;
+    width: 100%;
+  }
+}
+
+.pizza-outer-container {
+  width: 33.3%;
+}
+
+@media (max-width: 1300px) {
+  .pizza-outer-container {
+    width: 50%;
+  }
+}
+
+@media (max-width: 740px) {
+  .pizza-outer-container {
+    width: 100%;
+  }
+}
+
+.pizza-container {
+  border-radius: 25px;
+  box-shadow: 0px 0px 8px 7px rgba(193, 193, 193, 0.4);
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+  background-color: white;
+  transition: transform 0.3s;
+}
+
+.pizza-container:hover {
+  transform: scale(1.05);
+}
+
+.pizza-image {
+  width: 100%;
+  border-radius: 25px;
+  box-shadow: 0px 0px 8px 7px rgba(193, 193, 193, 0.4);
+}
+
+.pizza-description {
+  display: flex;
+  flex-direction: row;
+  margin-top: 20px;
+  justify-content: space-between;
+}
+
+.pizza-description-first-col {
+  flex-direction: column;
+  display: flex;
+  justify-content: space-between;
+  height: 90px;
+}
+
+.pizza-description-second-col {
+  color: #fb9302;
+  font-size: 24px;
+  font-weight: 600;
+  white-space: nowrap;
+  padding-top: 10px;
+}
+
+.pizza-name {
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.ingredients-title {
+  color: #fb9302;
+  font-size: 12px;
+}
+
+.pizza-ingredients {
+  color: #737680;
+  font-size: 14px;
+  text-transform: capitalize;
+}
+
+.order-button {
+  width: 100%;
+  font-size: 21px;
+  background-color: #fb9302;
+  padding: 10px 0px;
+  text-align: center;
+  text-decoration: none;
+  color: white;
+  border-radius: 50px;
+  margin-top: 15px;
+}

@@ -1,0 +1,12 @@
+.logo {
+  padding: 15px;
+  position: absolute;
+  text-decoration: none;
+}
+
+.logo-food {
+  color: #fb9302;
+  font-weight: 600;
+  font-size: 20px;
+  margin-left: -5px;
+}
