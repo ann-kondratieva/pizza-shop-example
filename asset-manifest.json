@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/pizza-shop-example/static/css/main.756801b9.css",
-    "main.js": "/pizza-shop-example/static/js/main.ac079370.js",
+    "main.css": "/pizza-shop-example/static/css/main.5e7860ec.css",
+    "main.js": "/pizza-shop-example/static/js/main.3c7516d4.js",
     "static/media/cheesetomato.jpg": "/pizza-shop-example/static/media/cheesetomato.9e7c7718a4e270136c3e.jpg",
     "static/media/ahot_thumbnail.jpg": "/pizza-shop-example/static/media/ahot_thumbnail.5d2c80218c9e04caef3a.jpg",
     "static/media/pepperoni-passion-pizza.jpg": "/pizza-shop-example/static/media/pepperoni-passion-pizza.23951fb768013673667b.jpg",
@@ -18,11 +18,11 @@
     "static/media/FourVegi.jpg": "/pizza-shop-example/static/media/FourVegi.67cc11405032689254f5.jpg",
     "static/media/logo.svg": "/pizza-shop-example/static/media/logo.128d6d0a693b3c155191.svg",
     "index.html": "/pizza-shop-example/index.html",
-    "main.756801b9.css.map": "/pizza-shop-example/static/css/main.756801b9.css.map",
-    "main.ac079370.js.map": "/pizza-shop-example/static/js/main.ac079370.js.map"
+    "main.5e7860ec.css.map": "/pizza-shop-example/static/css/main.5e7860ec.css.map",
+    "main.3c7516d4.js.map": "/pizza-shop-example/static/js/main.3c7516d4.js.map"
   },
   "entrypoints": [
-    "static/css/main.756801b9.css",
-    "static/js/main.ac079370.js"
+    "static/css/main.5e7860ec.css",
+    "static/js/main.3c7516d4.js"
   ]
 }
