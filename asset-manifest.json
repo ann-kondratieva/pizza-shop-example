@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/pizza-shop-example/static/css/main.4220d3d4.css",
+    "main.js": "/pizza-shop-example/static/js/main.722a4455.js",
+    "static/media/cheesetomato.jpg": "/pizza-shop-example/static/media/cheesetomato.9e7c7718a4e270136c3e.jpg",
+    "static/media/ahot_thumbnail.jpg": "/pizza-shop-example/static/media/ahot_thumbnail.5d2c80218c9e04caef3a.jpg",
+    "static/media/pepperoni-passion-pizza.jpg": "/pizza-shop-example/static/media/pepperoni-passion-pizza.23951fb768013673667b.jpg",
+    "static/media/tandoori-hot-pizza.jpg": "/pizza-shop-example/static/media/tandoori-hot-pizza.8c59d380c09f6d661331.jpg",
+    "static/media/CHICKEN_RASHER_BACON.jpg": "/pizza-shop-example/static/media/CHICKEN_RASHER_BACON.0f727ec94972b79fd9ec.jpg",
+    "static/media/hot-n-spicy-pizza.jpg": "/pizza-shop-example/static/media/hot-n-spicy-pizza.cf338a731696cf609394.jpg",
+    "static/media/chickenfeast.jpg": "/pizza-shop-example/static/media/chickenfeast.13ea701f404a6af803e7.jpg",
+    "static/media/new-yorker.jpg": "/pizza-shop-example/static/media/new-yorker.7c348ff33c34544b47b4.jpg",
+    "static/media/TheSizzler80x56.jpg": "/pizza-shop-example/static/media/TheSizzler80x56.0a5cf0779d9213499660.jpg",
+    "static/media/texas-bbq-pizza.jpg": "/pizza-shop-example/static/media/texas-bbq-pizza.e38676d11636242213d9.jpg",
+    "static/media/vegisupreme-pizza.jpg": "/pizza-shop-example/static/media/vegisupreme-pizza.67d23611ac6557cdc6c2.jpg",
+    "static/media/mighty-meaty-pizza.jpg": "/pizza-shop-example/static/media/mighty-meaty-pizza.b495d39a39da8650d5bc.jpg",
+    "static/media/meateor.jpg": "/pizza-shop-example/static/media/meateor.685ce97b2265093b3565.jpg",
+    "static/media/FourVegi.jpg": "/pizza-shop-example/static/media/FourVegi.67cc11405032689254f5.jpg",
+    "static/media/logo.svg": "/pizza-shop-example/static/media/logo.128d6d0a693b3c155191.svg",
+    "index.html": "/pizza-shop-example/index.html",
+    "main.4220d3d4.css.map": "/pizza-shop-example/static/css/main.4220d3d4.css.map",
+    "main.722a4455.js.map": "/pizza-shop-example/static/js/main.722a4455.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4220d3d4.css",
+    "static/js/main.722a4455.js"
+  ]
+}
